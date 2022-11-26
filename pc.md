@@ -15,4 +15,5 @@ Hello World!
 
 Answers:
 
-1.Git is a set of commands that we can use in the terminal
+1.Git is a set of commands that we can use in the terminal.
+Git has a concept of branching, it starts with one line and then splits at some point like a tree. 
