@@ -15,5 +15,19 @@ Hello World!
 
 Answers:
 
-1.Git is a set of commands that we can use in the terminal.
-Git has a concept of branching, it starts with one line and then splits at some point like a tree. 
+1. Is an actual commands that we're gonna be runningwe can use in the terminal.
+Its the actual underlying system. Git has this concept of branching like a tree they have the same idea.
+
+2. Git is a set of commands that we can use in the terminal,
+ while the Github is just a cloud wrapper where we're gonna hold our repositories.
+Github is a place where we store all of our code that we manage with Git in the terminal.
+
+3. We create a branch for us to easily edit, make changes and add. and its actually merge it back into the main code.
+4. The purpose of pull request is how you get a code from feauture branch or a bug fix branch into your main branch.
+5. the command that you can use to switch beetween branches is CD command.
+6. git fetch is it helps the usere to download commits,refs and files from the remote repository to the local repository
+while the git merge is after they accept the changes they can merge these changes to the local repository.
+and git pull on the other hand brings the copy of the remote directory changes into the local repository.
+7. Merge conflict is they're doing the same line of file and one person is edits a file and other person is deleting 
+some file.
+8. Create a commit on your local branch to reconcile the changes and then complete the merge.  
